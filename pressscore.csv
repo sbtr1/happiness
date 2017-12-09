@@ -1,0 +1,181 @@
+ISO,Rank,FR_Country,EN_country,ES_country,Underlying situation score 2016,Abuse score 2016,Overall Score 2016,Progression RANK,Rank 2015,Score 2015,Zone
+NOR,1,Norvège,Norway,Noruega,"7,60","0,00","7,60",2,3,"8,79",UE Balkans
+SWE,2,Suede,Sweden,Suecia,"7,59","10,99","8,27",6,8,"12,33",UE Balkans
+FIN,3,Finlande,Finland,Finlandia,"8,92","0,00","8,92",-2,1,"8,59",UE Balkans
+DNK,4,Danemark,Denmark,Dinamarca,"10,36","0,00","10,36",0,4,"8,89",UE Balkans
+NLD,5,Pays-Bas,Netherlands,Países Bajos,"9,63","17,92","11,28",-3,2,"8,76",UE Balkans
+CRI,6,Costa Rica,Costa Rica,Costa Rica,"11,93","0,00","11,93",0,6,"11,1",Amériques
+CHE,7,Suisse,Switzerland,Suiza,"12,13","0,00","12,13",0,7,"11,76",UE Balkans
+JAM,8,Jamaïque,Jamaica,Jamaica,"12,73","0,00","12,73",2,10,"12,45",Amériques
+BEL,9,Belgique,Belgium,Bélgica,"12,47","13,86","12,75",4,13,"14,18",UE Balkans
+ISL,10,Islande,Iceland,Islandia,"13,03","0,00","13,03",9,19,"15,3",UE Balkans
+AUT,11,Autriche,Austria,Austria,"13,47","0,00","13,47",0,11,"13,18",UE Balkans
+EST,12,Estonie,Estonia,Estonia,"13,55","0,00","13,55",2,14,"14,31",UE Balkans
+NZL,13,Nouvelle-Zélande,New Zealand,Nueva Zelanda,"13,98","0,00","13,98",-8,5,"10,01",Asie-Pacifique
+IRL,14,Irlande,Ireland,Irlanda,"14,08","0,00","14,08",-5,9,"12,4",UE Balkans
+LUX,15,Luxembourg,Luxembourg,Luxemburgo,"14,72","0,00","14,72",0,15,"14,43",UE Balkans
+DEU,16,Allemagne,Germany,Alemania,"11,35","29,44","14,97",0,16,"14,8",UE Balkans
+SVK,17,Slovaquie,Slovakia,Eslovaquia,"15,51","0,00","15,51",-5,12,"13,26",UE Balkans
+PRT,18,Portugal,Portugal,Portugal,"15,77","0,00","15,77",5,23,"17,27",UE Balkans
+AUS,19,Australie,Australia,Australia,"16,02","0,00","16,02",6,25,"17,84",Asie-Pacifique
+SUR,20,Surinam,Suriname,Surinam,"16,07","0,00","16,07",2,22,"16,7",Amériques
+WSM,21,Samoa,Samoa,Samoa,"16,41","0,00","16,41",8,29,"18,8",Asie-Pacifique
+CAN,22,Canada,Canada,Canadà,"16,53","0,00","16,53",-4,18,"15,26",Amériques
+CZE,23,République tchèque,Czech Republic,Repœblica Checa,"16,91","0,00","16,91",-2,21,"16,66",UE Balkans
+NAM,24,Namibie,Namibia,Namibia,"17,08","0,00","17,08",-7,17,"15,15",Afrique
+URY,25,URUGUAY,Uruguay,Uruguay,"17,43","6,93","17,43",-5,20,"15,88",Amériques
+GHA,26,Ghana,Ghana,Ghana,"17,95","0,00","17,95",0,26,"17,95",Afrique
+CPV,27,Cap-Vert,Cape Verde,Cabo Verde,"18,02","0,00","18,02",5,32,"19,82",Afrique
+LVA,28,Lettonie,Latvia,Letonia,"18,62","0,00","18,62",-4,24,"17,38",UE Balkans
+ESP,29,Espagne,Spain,España,"17,36","23,98","18,69",5,34,"19,92",UE Balkans
+CYP,30,Chypre,Cyprus,Chipre,"19,79","0,00","19,79",-3,27,"18,26",UE Balkans
+ZAF,31,Afrique du Sud,South Africa,Sudàfrica,"20,12","0,00","20,12",8,39,"21,92",Afrique
+LIE,32,Liechtenstein,Liechtenstein,Liechtenstein,"20,31","0,00","20,31",-4,28,"18,36",UE Balkans
+CHL,33,Chili,Chile,Chile,"19,94","20,79","20,53",-2,31,"19,23",Amériques
+TTO,34,Trinité-et-Tobago,Trinidad and Tobago,Trinidad y Tobago,"20,62","0,00","20,62",10,44,"23,29",Amériques
+AND,35,Andorre,Andorra,Andorra,"21,03","0,00","21,03",-2,33,"19,87",UE Balkans
+LTU,36,Lituanie,Lithuania,Lituania,"21,37","6,93","21,37",-1,35,"19,95",UE Balkans
+SVN,37,Slovénie,Slovenia,Eslovenia,"21,70","0,00","21,70",3,40,"22,26",UE Balkans
+XCD,38,OECS,OECS,OECS,"22,10","0,00","22,10",-8,30,"18,91",Amériques
+FRA,39,France,France,Francia,"22,04","23,03","22,24",6,45,"23,83",UE Balkans
+GBR,40,Royaume-Uni,United Kingdom,Reino Unido,"22,26","0,00","22,26",-2,38,"21,7",UE Balkans
+BLZ,41,Bélize,Belize,Belice,"23,43","0,00","23,43",-5,36,"20,61",Amériques
+BFA,42,Burkina Faso,Burkina Faso,Burkina Faso,"23,85","6,93","23,85",0,42,"22,66",Afrique
+USA,43,Etats Unis,United States,Estados Unidos,"23,27","24,85","23,88",-2,41,"22,49",Amériques
+COM,44,Comores,Comoros,Comoras,"24,33","0,00","24,33",6,50,"24,33",Afrique
+TWN,45,Taïwan,Taiwan,Taiwàn,"24,37","0,00","24,37",6,51,"24,37",Asie-Pacifique
+ROU,46,Roumanie,Romania,Rumania,"24,46","0,00","24,46",3,49,"24,29",UE Balkans
+MLT,47,Malte,Malta,Malta,"24,76","0,00","24,76",-1,46,"23,84",UE Balkans
+BWA,48,Botswana,Botswana,Botsuana,"24,93","0,00","24,93",-5,43,"22,91",Afrique
+TON,49,Tonga,Tonga,Tonga,"24,97","0,00","24,97",-12,37,"21,24",Asie-Pacifique
+ARG,50,Argentine,Argentina,Argentina,"22,05","37,14","25,07",4,54,"25,09",Amériques
+PNG,51,Papouasie-Nouvelle-Guinée,Papua New Guinea,Papœa Nueva Guinea,"25,07","0,00","25,07",4,55,"25,81",Asie-Pacifique
+ITA,52,Italie,Italy,Italia,"25,04","30,45","26,26",25,77,"28,93",UE Balkans
+HTI,53,Haïti,Haiti,Haití,"26,36","16,09","26,36",0,53,"24,66",Amériques
+POL,54,Pologne,Poland,Polonia,"26,47","0,00","26,47",-7,47,"23,89",UE Balkans
+MRT,55,Mauritanie,Mauritania,Mauritania,"26,26","13,86","26,49",-7,48,"24,03",Afrique
+MUS,56,Maurice,Mauritius,Mauricio,"26,67","0,00","26,67",5,61,"27,69",Afrique
+MDG,57,Madagascar,Madagascar,Madagascar,"26,71","0,00","26,71",-1,56,"27,04",Afrique
+SEN,58,Sénégal,Senegal,Senegal,"26,72","0,00","26,72",7,65,"27,99",Afrique
+DOM,59,Rep Dom,Dominican Republic,Repœblica Dominicana,"26,76","13,86","26,76",3,62,"27,9",Amériques
+GUY,60,Guyana,Guyana,Guyana,"26,80","0,00","26,80",-3,57,"27,07",Amériques
+NER,61,Niger,Niger,Niger,"27,21","10,99","27,21",-9,52,"24,62",Afrique
+SLV,62,El Salvador,El Salvador,El Salvador,"22,75","45,22","27,24",-4,58,"27,2",Amériques
+KOR,63,Corée du Sud,South Korea,Corea del Sur,"27,61","0,00","27,61",7,70,"28,58",Asie-Pacifique
+GEO,64,Géorgie,Georgia,Georgia,"27,76","0,00","27,76",0,64,"27,96",EEAC
+BIH,65,Bosnie-Herzégovine,Bosnia and Herzegovina,Bosnia-Herzegovina,"27,71","21,97","27,83",3,68,"28,45",UE Balkans
+SRB,66,Serbie,Serbia,Serbia,"28,05","6,93","28,05",-7,59,"27,6",UE Balkans
+FJI,67,Fidji,Fiji,Fiyi,"28,64","0,00","28,64",13,80,"29,37",Asie-Pacifique
+LSO,68,Lesotho,Lesotho,Lesoto,"28,78","10,99","28,78",5,73,"28,78",Afrique
+MNG,69,Mongolie,Mongolia,Mongolia,"28,95","0,00","28,95",-9,60,"27,61",Asie-Pacifique
+MWI,70,Malawi,Malawi,Malaui,"28,97","0,00","28,97",-4,66,"28,12",Afrique
+HUN,71,Hongrie,Hungary,Hungría,"29,01","6,93","29,01",-4,67,"28,17",UE Balkans
+JPN,72,Japon,Japan,Japón,"29,44","0,00","29,44",0,72,"28,67",Asie-Pacifique
+HKG,73,Hong-Kong,Hong Kong,Hong Kong,"29,46","19,46","29,46",-4,69,"28,5",Asie-Pacifique
+HRV,74,Croatie,Croatia,Croacia,"29,59","16,09","29,59",-11,63,"27,91",UE Balkans
+CTU,75,Chypre (partie Nord),Cyprus North,Chipre Norte,"29,88","0,00","29,88",6,81,"29,54",UE Balkans
+ALB,76,Albanie,Albania,Albania,"29,92","16,09","29,92",6,82,"29,92",UE Balkans
+GNB,77,Guinée-Bissau,Guinea-Bissau,Guinea-Bisàu,"30,09","0,00","30,09",2,79,"29,03",Afrique
+BEN,78,Bénin,Benin,Benín,"30,32","0,00","30,32",0,78,"28,97",Afrique
+ARM,79,Arménie,Armenia,Armenia,"30,38","24,85","30,38",-5,74,"28,79",EEAC
+MDA,80,Moldavie,Moldova,Moldavia,"30,41","10,99","30,41",-4,76,"28,83",EEAC
+CIV,81,Côte d'Ivoire,Ivory Coast,Costa de Marfil,"30,27","21,97","30,42",5,86,"30,17",Afrique
+XKO,82,Kosovo,Kosovo,Kosovo,"30,45","19,46","30,45",8,90,"30,5",UE Balkans
+TZA,83,Tanzanie,Tanzania,Tanzania,"30,65","10,99","30,65",-12,71,"28,65",Afrique
+BTN,84,Bhoutan,Bhutan,Butàn,"30,73","0,00","30,73",10,94,"30,73",Asie-Pacifique
+SLE,85,Sierra Leone,Sierra Leone,Sierra Leona,"30,73","0,00","30,73",-2,83,"29,94",Afrique
+TGO,86,Togo,Togo,Togo,"30,75","0,00","30,75",2,88,"30,31",Afrique
+SYC,87,Seychelles,Seychelles,Seychelles,"30,86","0,00","30,86",5,92,"30,6",Afrique
+GRC,88,Grèce,Greece,Grecia,"30,89","19,46","30,89",1,89,"30,35",UE Balkans
+KGZ,89,Kirghizstan,Kyrgyzstan,Kirguistàn,"30,92","10,99","30,92",-4,85,"30,16",EEAC
+PER,90,Perou,Peru,Peru,"27,19","46,15","30,98",-6,84,"29,99",Amériques
+ISR,91,Israël,Israel,Israel,"31,01","13,86","31,01",10,101,"32,58",MENA
+NIC,92,Nicaragua,Nicaragua,Nicaragua,"31,01","16,09","31,01",-17,75,"28,82",Amériques
+MOZ,93,Mozambique,Mozambique,Mozambique,"31,05","23,03","31,05",-6,87,"30,25",Afrique
+LBR,94,Liberia,Liberia,Liberia,"31,12","16,09","31,12",-1,93,"30,71",Afrique
+KEN,95,Kenya,Kenya,Kenia,"27,51","45,95","31,20",0,95,"31,16",Afrique
+PAN,96,Panama,Panama,Panamà,"32,12","0,00","32,12",-5,91,"30,59",Amériques
+TUN,97,Tunisie,Tunisia,Tœnez,"32,22","21,97","32,22",-1,96,"31,6",MENA
+TLS,98,Timor-Leste,East Timor,Timor Oriental,"32,82","0,00","32,82",1,99,"32,02",Asie-Pacifique
+LBN,99,Liban,Lebanon,Líbano,"32,90","23,03","33,01",-1,98,"31,95",MENA
+NPL,100,Népal,Nepal,Nepal,"33,02","13,86","33,02",5,105,"32,62",Asie-Pacifique
+GIN,101,Guinée,Guinea,Guinea,"30,00","45,75","33,15",7,108,"33,08",Afrique
+UKR,102,Ukraine,Ukraine,Ucrania,"28,88","50,43","33,19",5,107,"32,93",EEAC
+BRA,103,Brésil,Brazil,Brasil,"27,25","58,92","33,58",1,104,"32,62",Amériques
+KWT,104,Koweït,Kuwait,Kuwait,"31,78","40,94","33,61",-1,103,"32,59",MENA
+ECU,105,Equateur,Ecuador,Ecuador,"33,64","32,19","33,64",4,109,"33,21",Amériques
+MNE,106,Monténégro,Montenegro,Montenegro,"33,65","0,00","33,65",0,106,"32,79",UE Balkans
+BOL,107,Bolivie,Bolivia,Bolivia,"33,88","30,91","33,88",-10,97,"31,78",Amériques
+GAB,108,Gabon,Gabon,Repœblica Gabonesa,"34,56","34,34","34,83",-8,100,"32,2",Afrique
+BGR,109,Bulgarie,Bulgaria,Bulgaria,"35,01","6,93","35,01",4,113,"34,46",UE Balkans
+PRY,110,Paraguay,Paraguay,Paraguay,"34,53","33,32","35,64",1,111,"33,63",Amériques
+MKD,111,Macédoine,Macedonia,Repœblica de Macedonia,"35,74","21,97","35,74",7,118,"36,09",UE Balkans
+UGA,112,Ouganda,Uganda,Uganda,"33,88","44,19","35,94",-10,102,"32,58",Afrique
+CAF,113,République centrafricaine,Central African Republic,Repœblica Centroafricana,"36,12","6,93","36,12",-3,110,"33,6",Afrique
+ZMB,114,Zambie,Zambia,Zambia,"36,48","24,85","36,48",0,114,"35,08",Afrique
+COG,115,Congo,Congo,Repœblica del Congo,"36,73","28,90","36,73",0,115,"35,84",Afrique
+MLI,116,Mali,Mali,Malí,"38,27","23,03","38,27",6,122,"39,83",Afrique
+MDV,117,Maldives,Maldives,Maldivas,"39,30","27,73","39,30",-5,112,"34,17",Asie-Pacifique
+GTM,118,Guatemala ,Guatemala,Guatemala,"36,17","51,98","39,33",3,121,"38,03",Amériques
+ARE,119,Émirats arabes unis,United Arab Emirates,Emiratos çrabes Unidos,"37,37","47,45","39,39",0,119,"36,73",MENA
+AFG,120,Afghanistan,Afghanistan,Afganistàn,"32,29","68,12","39,46",0,120,"37,75",Asie-Pacifique
+TCD,121,Tchad,Chad,Chad,"39,66","10,99","39,66",6,127,"40,59",Afrique
+NGA,122,Nigeria,Nigeria,Nigeria,"39,69","35,55","39,69",-6,116,"35,9",Afrique
+QAT,123,Qatar,Qatar,Catar,"39,83","10,99","39,83",-6,117,"35,97",MENA
+IDN,124,Indonésie,Indonesia,Indonesia,"39,29","36,11","39,93",6,130,"41,72",Asie-Pacifique
+AGO,125,Angola,Angola,Angola,"40,42","0,00","40,42",-2,123,"39,89",Afrique
+OMN,126,Oman,Oman,Omàn,"40,09","37,14","40,46",-1,125,"40,43",MENA
+PHL,127,Philippines,Philippines,Filipinas,"41,08","0,00","41,08",11,138,"44,66",Asie-Pacifique
+ZWE,128,Zimbabwe,Zimbabwe,Zimbabue,"41,41","38,50","41,44",-4,124,"40,41",Afrique
+COL,129,Colombie,Colombia,Colombia,"41,47","39,12","41,47",5,134,"44,11",Amériques
+CMR,130,Cameroun,Cameroon,Camerœn,"41,59","30,91","41,59",-4,126,"40,53",Afrique
+MMR,131,Birmanie,Myanmar,Birmania,"41,82","19,46","41,82",12,143,"45,48",Asie-Pacifique
+KHM,132,Cambodge,Cambodia,Camboya,"42,07","0,00","42,07",-4,128,"40,7",Asie-Pacifique
+MAR,133,Maroc,Morocco,Marruecos,"42,42","31,35","42,42",-2,131,"42,64",MENA
+DZA,134,Algérie,Algeria,Argelia,"42,37","35,55","42,83",-5,129,"41,69",MENA
+PSE,135,Palestine,Palestine,Palestina,"42,90","27,73","42,90",-3,132,"42,93",MENA
+IND,136,Inde,India,India,"39,42","57,00","42,94",-3,133,"43,17",Asie-Pacifique
+VEN,137,VENEZUELA ,Venezuela,Venezuela,"42,34","45,33","42,94",2,139,"44,77",Amériques
+JOR,138,Jordanie,Jordan,Jordania,"42,80","45,00","43,24",-3,135,"44,49",MENA
+PAK,139,Pakistan,Pakistan,Pakistàn,"41,39","52,20","43,55",8,147,"48,52",Asie-Pacifique
+HND,140,Honduras,Honduras,Honduras,"42,54","48,44","43,75",-3,137,"44,62",Amériques
+LKA,141,Sri Lanka,Sri Lanka,Sri Lanka,"44,34","6,93","44,34",0,141,"44,96",Asie-Pacifique
+THA,142,Thaïlande,Thailand,Tailandia,"43,49","49,49","44,69",-6,136,"44,53",Asie-Pacifique
+GMB,143,Gambie,Gambia,Gambia,"46,70","45,43","46,70",2,145,"46,53",Afrique
+MYS,144,Malaisie,Malaysia,Malasia,"46,89","6,93","46,89",2,146,"46,57",Asie-Pacifique
+SSD,145,Soudan du Sud,South Sudan,Sudàn del Sur,"46,88","46,25","48,16",-5,140,"44,87",Afrique
+BGD,146,Bangladesh,Bangladesh,Bangladés,"47,19","53,03","48,36",-2,144,"45,94",Asie-Pacifique
+MEX,147,Mexique,Mexico,México,"44,18","68,15","48,97",2,149,"49,33",Amériques
+RUS,148,Russie,Russian Federation,Rusia,"47,90","55,65","49,45",0,148,"49,03",EEAC
+TJK,149,Tadjikistan,Tajikistan,Tayikistàn,"50,27","35,55","50,27",1,150,"50,34",EEAC
+ETH,150,Éthiopie,Ethiopia,Etiopía,"47,23","59,66","50,34",-8,142,"45,13",Afrique
+SGP,151,Singapour    ,Singapore,Singapur,"51,10","6,93","51,10",3,154,"52,96",Asie-Pacifique
+SWZ,152,Swaziland,Swaziland,Suazilandia,"51,27","0,00","51,27",1,153,"52,37",Afrique
+BLR,153,Bélarus,Belarus,Bielorrusia,"52,43","37,84","52,43",4,157,"54,32",EEAC
+COD,154,RD Congo,The Democratic Republic Of The Congo,RD Congo,"52,67","50,94","52,67",-2,152,"50,97",Afrique
+TUR,155,Turquie,Turkey,Turquía,"49,46","67,08","52,98",-4,151,"50,76",EEAC
+BRN,156,Brunei,Brunei Darussalam,Brunéi,"51,48","0,00","53,72",-1,155,"53,85",Asie-Pacifique
+KAZ,157,Kazakhstan,Kazakhstan,Kazajistàn,"54,01","44,19","54,01",3,160,"54,55",EEAC
+IRQ,158,Irak,Iraq,Irak,"51,22","65,26","54,03",0,158,"54,35",MENA
+RWA,159,Rwanda,Rwanda,Ruanda,"54,11","6,93","54,11",2,161,"54,61",Afrique
+BDI,160,Burundi,Burundi,Burundi,"55,78","40,60","55,78",-4,156,"54,1",Afrique
+EGY,161,Égypte,Egypt,Egipto,"52,71","68,07","55,78",-2,159,"54,45",MENA
+AZE,162,Azerbaïdjan,Azerbaijan,Azerbaiyàn,"55,23","61,07","56,40",1,163,"57,89",EEAC
+LBY,163,Libye,Libya,Libia,"55,76","60,98","56,81",1,164,"57,89",MENA
+BHR,164,Bahreïn,Bahrain,Baréin,"57,94","62,67","58,88",-2,162,"54,86",MENA
+IRN,165,Iran,Islamic Republic of Iran,Iràn,"63,69","70,76","65,12",4,169,"66,52",MENA
+YEM,166,Yémen,Yemen,Yemen,"65,36","63,42","65,80",4,170,"67,07",MENA
+SOM,167,Somalie,Somalia,Somalia,"65,11","55,68","65,95",0,167,"65,35",Afrique
+SAU,168,Arabie saoudite,Saudi Arabia,Arabia Saudita,"64,97","61,59","66,02",-3,165,"59,72",MENA
+UZB,169,Ouzbékistan,Uzbekistan,Uzbekistàn,"65,04","64,85","66,11",-3,166,"61,15",EEAC
+LAO,170,Laos,Lao People's Democratic Republic,Laos,"66,41","56,70","66,41",3,173,"71,58",Asie-Pacifique
+GNQ,171,Guinée équatoriale,Equatorial Guinea,Guinea Ecuatorial,"66,47","0,00","66,47",-3,168,"66,47",Afrique
+DJI,172,Djibouti,Djibouti,Yibuti,"70,54","32,19","70,54",0,172,"70,9",Afrique
+CUB,173,Cuba,Cuba,Cuba,"71,75","51,93","71,75",-2,171,"70,23",Amériques
+SDN,174,Soudan,Sudan,Sudàn,"73,56","27,73","73,56",0,174,"72,53",Afrique
+VNM,175,Viêt Nam,Vietnam,Vietnam,"73,96","68,15","73,96",0,175,"74,27",Asie-Pacifique
+CHN,176,Chine,China,China,"74,77","89,24","77,66",0,176,"80,96",Asie-Pacifique
+SYR,177,Syrie,Syrian Arab Republic,Siria,"80,09","82,76","81,49",0,177,"81,35",MENA
+TKM,178,Turkménistan,Turkmenistan,Turkmenistàn,"84,19","35,26","84,19",0,178,"83,44",EEAC
+ERI,179,Érythrée,Eritrea,Eritrea,"84,24","71,71","84,24",1,180,"83,92",Afrique
+PRK,180,Corée du Nord,Democratic People's Republic of Korea,Corea del Norte,"84,98","51,93","84,98",-1,179,"83,76",Asie-Pacifique
